@@ -21,7 +21,7 @@ The training data is split into two files namely train_features and train_salari
 * salary: This is the target variable. It is the amount each employee receives.
 
 # Descriptive statistics
-![alt text](https://github.com/jjoshua1995/Salary-Prediction-in-R/blob/master/Figures/Histogram_target.PNG)
+![alt text](https://github.com/jjoshua1995/Salary-Prediction-in-R/blob/master/Figures/Descriptive%20stats.PNG)
 
 
 # Exploratory data analysis
