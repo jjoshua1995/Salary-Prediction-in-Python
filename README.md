@@ -81,10 +81,10 @@ type variables.
 
 Label encoding is applied to transform categorical features into numeric features. To enhance the performance of the models, following new features have been created by grouping Jobtype, degree, major, industry and companyId columns:
 
-group_mean :- Average salary of the group.
-group_median :- Median salary of the group.
-group_max :- Maximum salary of the group.
-group_min :- Minimum salary of the group.
+* group_mean :- Average salary of the group.
+* group_median :- Median salary of the group.
+* group_max :- Maximum salary of the group.
+* group_min :- Minimum salary of the group.
 
 # Model development
 
@@ -102,9 +102,9 @@ The mean MSE error obtained is :- 644.256325
 
 For this regression task, 3 different machine learning algorithms were selected, one linear and two ensembles, to see which performs better for the problem:
 
-Linear Regressor.
-Extra Tree Regressor.
-LightGBM Regressor.
+* Linear Regressor.
+* Extra Tree Regressor.
+* LightGBM Regressor.
 
 We have tuned both ensemble models and following results have been achieved:
 
